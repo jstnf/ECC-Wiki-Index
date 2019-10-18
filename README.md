@@ -1,5 +1,5 @@
 # <img src="https://i.imgur.com/McHs0uU.png" align="right" width="20%" height="20%">eccwiki
-HTML Templates for **EcoCityCraft's XenForo Wiki**.
+HTML Templates and Pages for **EcoCityCraft's XenForo Wiki**.
 
 Links
 ---
